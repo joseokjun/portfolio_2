@@ -1,0 +1,953 @@
+2022-12-20 08:54:24,265 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:348] - GH optimization model : Start
+2022-12-20 08:54:30,815 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [21396]GH Model 실행 : 경영형-01_딸기:
+2022-12-20 08:54:30,830 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [36716]GH Model 실행 : 교육형-01_딸기:
+2022-12-20 08:54:30,868 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [29556]GH Model 실행 : 임대형-01_딸기:
+2022-12-20 08:54:30,877 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [27816]GH Model 실행 : 임대형-02_딸기:
+2022-12-20 08:54:31,121 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "d:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 320, in run
+    if df_in is None or df_in.empty: raise Exception("데이터 전처리 및 병합 오류 발생")
+Exception: 데이터 전처리 및 병합 오류 발생
+
+2022-12-20 08:54:31,123 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-12-20 08:54:31,123 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [29556]GH Model 실행 : 임대형-03_딸기:
+2022-12-20 08:54:31,130 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "d:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 320, in run
+    if df_in is None or df_in.empty: raise Exception("데이터 전처리 및 병합 오류 발생")
+Exception: 데이터 전처리 및 병합 오류 발생
+
+2022-12-20 08:54:31,131 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-12-20 08:54:31,132 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [27816]GH Model 실행 : 임대형-04_딸기:
+2022-12-20 08:54:31,266 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "d:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 320, in run
+    if df_in is None or df_in.empty: raise Exception("데이터 전처리 및 병합 오류 발생")
+Exception: 데이터 전처리 및 병합 오류 발생
+
+2022-12-20 08:54:31,267 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-12-20 08:54:32,685 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "d:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 320, in run
+    if df_in is None or df_in.empty: raise Exception("데이터 전처리 및 병합 오류 발생")
+Exception: 데이터 전처리 및 병합 오류 발생
+
+2022-12-20 08:54:32,686 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-12-20 08:54:40,364 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:289] - 결과 파일 저장 완료 - ./result/경영형-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-12-20 08:54:40,722 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:305] - 경영형-01_딸기 - 결과 DB 저장 완료
+2022-12-20 08:54:41,714 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:289] - 결과 파일 저장 완료 - ./result/교육형-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-12-20 08:54:41,808 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:305] - 교육형-01_딸기 - 결과 DB 저장 완료
+2022-12-20 08:54:42,510 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:380] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:18.245117
+2022-12-20 11:35:09,344 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:348] - GH optimization model : Start
+2022-12-20 11:35:15,486 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [37700]GH Model 실행 : 경영형-01_딸기:
+2022-12-20 11:35:15,502 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [40252]GH Model 실행 : 경영형-02_토마토:
+2022-12-20 11:35:15,577 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [39180]GH Model 실행 : 경영형-03_멜론:
+2022-12-20 11:35:15,578 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [43676]GH Model 실행 : 경영형-04_만다린:
+2022-12-20 11:35:21,175 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:35:21,176 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:35:21,177 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:35:21,177 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [37700]GH Model 실행 : 교육형-01_딸기:
+2022-12-20 11:35:21,313 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:35:21,314 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:35:21,315 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:35:21,315 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [39180]GH Model 실행 : 교육형-02_토마토:
+2022-12-20 11:35:21,386 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:35:21,387 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:35:21,388 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:35:21,388 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [43676]GH Model 실행 : 교육형-03_멜론:
+2022-12-20 11:35:21,484 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:35:21,485 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:35:21,486 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:35:21,486 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [40252]GH Model 실행 : 교육형-04_만다린:
+2022-12-20 11:42:11,532 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:348] - GH optimization model : Start
+2022-12-20 11:42:17,668 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [29564]GH Model 실행 : 경영형-01_딸기:
+2022-12-20 11:42:17,668 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [40584]GH Model 실행 : 경영형-02_토마토:
+2022-12-20 11:42:17,766 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [20396]GH Model 실행 : 경영형-03_멜론:
+2022-12-20 11:42:17,774 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [23336]GH Model 실행 : 경영형-04_만다린:
+2022-12-20 11:42:23,340 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:23,341 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:23,341 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:23,342 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [29564]GH Model 실행 : 교육형-01_딸기:
+2022-12-20 11:42:23,531 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:23,531 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:23,532 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:23,533 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [20396]GH Model 실행 : 교육형-02_토마토:
+2022-12-20 11:42:23,547 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:23,548 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:23,548 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:23,549 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [40584]GH Model 실행 : 교육형-03_멜론:
+2022-12-20 11:42:23,553 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:23,553 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:23,554 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:23,555 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [23336]GH Model 실행 : 교육형-04_만다린:
+2022-12-20 11:42:27,664 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:27,665 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:27,665 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:27,666 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [29564]GH Model 실행 : 임대형1-01_딸기:
+2022-12-20 11:42:27,779 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:27,780 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:27,780 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:27,781 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [23336]GH Model 실행 : 임대형1-02_딸기:
+2022-12-20 11:42:27,800 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:27,801 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:27,803 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:27,803 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [40584]GH Model 실행 : 임대형1-03_딸기:
+2022-12-20 11:42:28,049 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:28,050 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:28,051 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:28,052 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:313] - [20396]GH Model 실행 : 임대형1-04_딸기:
+2022-12-20 11:42:31,872 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:31,873 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:31,873 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:32,009 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:32,010 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:32,010 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:32,035 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:32,036 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:32,037 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:32,196 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:266] - 예측하기 오류 발생
+2022-12-20 11:42:32,196 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:339] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 331, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 11:42:32,197 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 11:42:32,795 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:372] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:21.262999
+2022-12-20 12:02:44,199 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:349] - GH optimization model : Start
+2022-12-20 12:02:50,944 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [23488]GH Model 실행 : 경영형-01_딸기:
+2022-12-20 12:02:50,965 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [32220]GH Model 실행 : 경영형-02_토마토:
+2022-12-20 12:02:51,022 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [38328]GH Model 실행 : 경영형-03_멜론:
+2022-12-20 12:02:51,023 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [30088]GH Model 실행 : 경영형-04_만다린:
+2022-12-20 12:02:57,218 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:02:57,219 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:02:57,220 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:02:57,221 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [38328]GH Model 실행 : 교육형-01_딸기:
+2022-12-20 12:02:58,067 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:02:58,068 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:02:58,070 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:02:58,071 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [32220]GH Model 실행 : 교육형-02_토마토:
+2022-12-20 12:02:58,102 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:02:58,103 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:02:58,104 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:02:58,105 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [23488]GH Model 실행 : 교육형-03_멜론:
+2022-12-20 12:02:58,112 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:02:58,113 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:02:58,114 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:02:58,114 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [30088]GH Model 실행 : 교육형-04_만다린:
+2022-12-20 12:03:02,727 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:03:02,728 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:03:02,729 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:03:02,729 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [38328]GH Model 실행 : 임대형1-01_딸기:
+2022-12-20 12:03:02,762 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:03:02,762 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:03:02,763 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:03:02,764 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [23488]GH Model 실행 : 임대형1-02_딸기:
+2022-12-20 12:03:03,304 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:03:03,305 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:03:03,306 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:03:03,307 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [30088]GH Model 실행 : 임대형1-03_딸기:
+2022-12-20 12:03:03,661 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:03:03,662 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:03:03,663 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:03:03,663 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:314] - [32220]GH Model 실행 : 임대형1-04_딸기:
+2022-12-20 12:03:08,152 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:03:08,154 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:03:08,155 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:03:09,058 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:03:09,058 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:03:09,059 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:03:09,266 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:03:09,267 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:03:09,268 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:03:09,360 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:267] - 예측하기 오류 발생
+2022-12-20 12:03:09,361 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:340] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 332, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:03:09,362 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:03:10,036 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:373] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:25.836838
+2022-12-20 12:06:23,925 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:350] - GH optimization model : Start
+2022-12-20 12:06:30,479 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [25140]GH Model 실행 : 경영형-01_딸기:
+2022-12-20 12:06:30,555 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [23216]GH Model 실행 : 경영형-02_토마토:
+2022-12-20 12:06:30,572 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [42516]GH Model 실행 : 경영형-03_멜론:
+2022-12-20 12:06:30,572 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [28816]GH Model 실행 : 경영형-04_만다린:
+2022-12-20 12:06:36,932 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:36,933 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:36,934 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:36,935 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [42516]GH Model 실행 : 교육형-01_딸기:
+2022-12-20 12:06:37,609 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:37,610 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:37,611 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:37,612 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [25140]GH Model 실행 : 교육형-02_토마토:
+2022-12-20 12:06:37,680 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:37,681 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:37,682 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:37,682 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [23216]GH Model 실행 : 교육형-03_멜론:
+2022-12-20 12:06:37,695 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:37,696 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:37,697 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:37,697 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [28816]GH Model 실행 : 교육형-04_만다린:
+2022-12-20 12:06:42,239 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:42,240 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:42,242 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:42,242 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [23216]GH Model 실행 : 임대형1-01_딸기:
+2022-12-20 12:06:42,406 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:42,407 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:42,408 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:42,409 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [42516]GH Model 실행 : 임대형1-02_딸기:
+2022-12-20 12:06:42,726 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:42,727 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:42,728 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:42,728 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [25140]GH Model 실행 : 임대형1-03_딸기:
+2022-12-20 12:06:42,875 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:42,876 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:42,877 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:42,877 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [28816]GH Model 실행 : 임대형1-04_딸기:
+2022-12-20 12:06:48,018 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:48,019 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:48,020 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:48,121 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:48,121 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:48,122 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:48,840 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:48,841 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:48,842 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:49,020 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:06:49,021 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:06:49,022 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:06:49,712 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:374] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:25.787696
+2022-12-20 12:09:33,859 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:350] - GH optimization model : Start
+2022-12-20 12:09:40,391 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [31036]GH Model 실행 : 경영형-01_딸기:
+2022-12-20 12:09:40,433 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [20632]GH Model 실행 : 경영형-02_토마토:
+2022-12-20 12:09:40,475 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [13780]GH Model 실행 : 경영형-03_멜론:
+2022-12-20 12:09:40,485 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [33968]GH Model 실행 : 경영형-04_만다린:
+2022-12-20 12:09:46,713 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:46,714 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:46,716 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:46,717 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [13780]GH Model 실행 : 교육형-01_딸기:
+2022-12-20 12:09:47,347 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:47,348 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:47,349 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:47,350 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [20632]GH Model 실행 : 교육형-02_토마토:
+2022-12-20 12:09:47,386 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:47,386 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:47,387 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:47,388 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [31036]GH Model 실행 : 교육형-03_멜론:
+2022-12-20 12:09:47,774 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:47,775 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:47,776 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:47,777 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [33968]GH Model 실행 : 교육형-04_만다린:
+2022-12-20 12:09:51,939 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:51,940 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:51,941 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:51,941 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [13780]GH Model 실행 : 임대형1-01_딸기:
+2022-12-20 12:09:52,031 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:52,031 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:52,032 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:52,033 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [31036]GH Model 실행 : 임대형1-02_딸기:
+2022-12-20 12:09:52,543 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:52,544 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:52,545 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:52,545 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [20632]GH Model 실행 : 임대형1-03_딸기:
+2022-12-20 12:09:53,036 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:53,037 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:53,038 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:53,039 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [33968]GH Model 실행 : 임대형1-04_딸기:
+2022-12-20 12:09:57,010 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:57,010 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:57,011 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:57,035 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:57,036 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:57,036 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:57,565 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:57,566 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:57,567 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:57,845 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:09:57,846 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:09:57,847 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:09:58,515 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:374] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:24.655083
+2022-12-20 12:13:21,087 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:350] - GH optimization model : Start
+2022-12-20 12:13:27,638 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [20668]GH Model 실행 : 경영형-01_딸기:
+2022-12-20 12:13:27,685 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [29032]GH Model 실행 : 경영형-02_토마토:
+2022-12-20 12:13:27,717 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [40020]GH Model 실행 : 경영형-03_멜론:
+2022-12-20 12:13:27,727 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [20112]GH Model 실행 : 경영형-04_만다린:
+2022-12-20 12:13:34,078 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:13:34,078 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:13:34,079 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:13:34,080 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [40020]GH Model 실행 : 교육형-01_딸기:
+2022-12-20 12:13:36,095 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 12:13:36,097 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 12:13:36,354 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:13:36,355 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:13:36,357 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:13:36,357 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [20668]GH Model 실행 : 교육형-02_토마토:
+2022-12-20 12:13:38,598 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:291] - 결과 파일 저장 완료 - ./result/경영형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-12-20 12:13:38,668 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:291] - 결과 파일 저장 완료 - ./result/경영형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-12-20 12:13:38,760 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:307] - 경영형-04_만다린 - 결과 DB 저장 완료
+2022-12-20 12:13:38,761 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [20112]GH Model 실행 : 교육형-03_멜론:
+2022-12-20 12:13:39,087 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:307] - 경영형-02_토마토 - 결과 DB 저장 완료
+2022-12-20 12:13:39,087 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [29032]GH Model 실행 : 교육형-04_만다린:
+2022-12-20 12:13:41,191 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 12:13:41,193 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 12:13:41,431 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:13:41,433 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:13:41,434 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:13:41,434 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [40020]GH Model 실행 : 임대형1-01_딸기:
+2022-12-20 12:13:43,650 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:13:43,650 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:13:43,651 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:13:43,651 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [20112]GH Model 실행 : 임대형1-02_딸기:
+2022-12-20 12:13:45,849 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:291] - 결과 파일 저장 완료 - ./result/교육형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-12-20 12:13:45,916 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:307] - 교육형-02_토마토 - 결과 DB 저장 완료
+2022-12-20 12:13:45,917 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [20668]GH Model 실행 : 임대형1-03_딸기:
+2022-12-20 12:13:48,464 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 12:13:48,466 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 12:13:48,689 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:13:48,690 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:13:48,691 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:13:48,691 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:315] - [40020]GH Model 실행 : 임대형1-04_딸기:
+2022-12-20 12:13:49,380 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:291] - 결과 파일 저장 완료 - ./result/교육형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-12-20 12:13:49,508 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:307] - 교육형-04_만다린 - 결과 DB 저장 완료
+2022-12-20 12:13:50,632 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 12:13:50,634 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 12:13:50,858 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:13:50,859 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:13:50,860 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:13:52,334 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 12:13:52,336 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 12:13:52,553 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:13:52,554 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:13:52,555 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:13:54,566 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 12:13:54,567 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 12:13:54,763 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:268] - 예측하기 오류 발생
+2022-12-20 12:13:54,764 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:341] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 333, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 12:13:54,765 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 12:13:55,448 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:374] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:34.360247
+2022-12-20 13:08:16,699 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:351] - GH optimization model : Start
+2022-12-20 13:08:23,593 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [34380]GH Model 실행 : 경영형-01_딸기:
+2022-12-20 13:08:23,619 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [41140]GH Model 실행 : 경영형-02_토마토:
+2022-12-20 13:08:23,778 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [24788]GH Model 실행 : 경영형-03_멜론:
+2022-12-20 13:08:23,779 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [22020]GH Model 실행 : 경영형-04_만다린:
+2022-12-20 13:08:29,665 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 13:08:29,666 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 13:08:29,667 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 13:08:29,668 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [24788]GH Model 실행 : 교육형-01_딸기:
+2022-12-20 13:08:32,092 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 13:08:32,094 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 13:08:32,344 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 13:08:32,345 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 13:08:32,346 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 13:08:32,347 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [34380]GH Model 실행 : 교육형-02_토마토:
+2022-12-20 13:08:34,495 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/경영형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-12-20 13:08:34,656 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/경영형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-12-20 13:08:34,764 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 경영형-02_토마토 - 결과 DB 저장 완료
+2022-12-20 13:08:34,765 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [41140]GH Model 실행 : 교육형-03_멜론:
+2022-12-20 13:08:35,060 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 경영형-04_만다린 - 결과 DB 저장 완료
+2022-12-20 13:08:35,061 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [22020]GH Model 실행 : 교육형-04_만다린:
+2022-12-20 13:08:36,454 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 13:08:36,455 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 13:08:36,675 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 13:08:36,676 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 13:08:36,677 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 13:08:36,678 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [24788]GH Model 실행 : 임대형1-01_딸기:
+2022-12-20 13:08:39,551 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 13:08:39,551 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 13:08:39,552 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 13:08:39,553 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [41140]GH Model 실행 : 임대형1-02_딸기:
+2022-12-20 13:08:41,022 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/교육형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-12-20 13:08:41,090 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 교육형-02_토마토 - 결과 DB 저장 완료
+2022-12-20 13:08:41,091 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [34380]GH Model 실행 : 임대형1-03_딸기:
+2022-12-20 13:08:43,235 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 13:08:43,237 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 13:08:43,449 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 13:08:43,450 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 13:08:43,451 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 13:08:43,452 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [24788]GH Model 실행 : 임대형1-04_딸기:
+2022-12-20 13:08:43,560 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/교육형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-12-20 13:08:43,693 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 교육형-04_만다린 - 결과 DB 저장 완료
+2022-12-20 13:08:46,271 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 13:08:46,273 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 13:08:46,499 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 13:08:46,500 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 13:08:46,501 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 13:08:47,160 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 13:08:47,162 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 13:08:47,376 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 13:08:47,377 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 13:08:47,377 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 13:08:49,972 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 13:08:49,973 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 13:08:50,173 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 13:08:50,175 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 13:08:50,175 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 13:08:50,836 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:375] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:34.135661
+2022-12-20 19:01:23,139 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:351] - GH optimization model : Start
+2022-12-20 19:01:29,655 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [24908]GH Model 실행 : 경영형-01_딸기:
+2022-12-20 19:01:29,655 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [39152]GH Model 실행 : 경영형-02_토마토:
+2022-12-20 19:01:29,752 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [33164]GH Model 실행 : 경영형-03_멜론:
+2022-12-20 19:01:29,752 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [31020]GH Model 실행 : 경영형-04_만다린:
+2022-12-20 19:01:35,578 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 19:01:35,579 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 19:01:35,580 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 19:01:35,581 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [33164]GH Model 실행 : 교육형-01_딸기:
+2022-12-20 19:01:37,697 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 19:01:37,699 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 19:01:37,974 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 19:01:37,975 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 19:01:37,976 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 19:01:37,977 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [24908]GH Model 실행 : 교육형-02_토마토:
+2022-12-20 19:01:40,055 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/경영형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-12-20 19:01:40,160 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 경영형-04_만다린 - 결과 DB 저장 완료
+2022-12-20 19:01:40,161 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [31020]GH Model 실행 : 교육형-03_멜론:
+2022-12-20 19:01:40,300 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/경영형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-12-20 19:01:40,556 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 경영형-02_토마토 - 결과 DB 저장 완료
+2022-12-20 19:01:40,557 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [39152]GH Model 실행 : 교육형-04_만다린:
+2022-12-20 19:01:42,139 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 19:01:42,141 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 19:01:42,377 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 19:01:42,378 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 19:01:42,378 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 19:01:42,379 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [33164]GH Model 실행 : 임대형1-01_딸기:
+2022-12-20 19:01:44,575 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 19:01:44,576 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 19:01:44,577 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 19:01:44,577 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [31020]GH Model 실행 : 임대형1-02_딸기:
+2022-12-20 19:01:46,642 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/교육형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-12-20 19:01:46,797 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 교육형-02_토마토 - 결과 DB 저장 완료
+2022-12-20 19:01:46,797 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [24908]GH Model 실행 : 임대형1-03_딸기:
+2022-12-20 19:01:49,056 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/교육형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-12-20 19:01:49,136 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 교육형-04_만다린 - 결과 DB 저장 완료
+2022-12-20 19:01:49,136 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [39152]GH Model 실행 : 임대형1-04_딸기:
+2022-12-20 19:01:49,633 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 19:01:49,635 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 19:01:49,845 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 19:01:49,846 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 19:01:49,847 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 19:01:50,891 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 19:01:50,893 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 19:01:51,103 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 19:01:51,104 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 19:01:51,104 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 19:01:52,820 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 19:01:52,822 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 19:01:53,075 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 19:01:53,076 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 19:01:53,077 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 19:01:54,793 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:55] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 50, in scaling_make_dataset
+    Pred_data = X_scaler.transform(df.reset_index()[var].values)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\preprocessing\_data.py", line 496, in transform
+    X = self._validate_data(
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 585, in _validate_data
+    self._check_n_features(X, reset=reset)
+  File "C:\Anaconda3\envs\tf_env\lib\site-packages\sklearn\base.py", line 400, in _check_n_features
+    raise ValueError(
+ValueError: X has 8 features, but MinMaxScaler is expecting 7 features as input.
+
+2022-12-20 19:01:54,794 ERROR [root] [고도화_GH_optimization_model_load_predict.py:56] - train 데이터셋 만드는 중 오류 발생
+2022-12-20 19:01:54,998 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:269] - 예측하기 오류 발생
+2022-12-20 19:01:54,998 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:342] - Traceback (most recent call last):
+  File "D:\theimz\조석준\NAVER_WORKS\스마트팜_혁신밸리\22년12월\모델고도화코드개발\스마트팜_혁신밸리_고도화_모델코드(전달)\고도화_GH_optimization_model_load_predict.py", line 334, in run
+    predicted_value, prd_date = GHModel.pridict_model(self, df)
+TypeError: cannot unpack non-iterable NoneType object
+
+2022-12-20 19:01:54,999 ERROR [GH_LOG] [고도화_GH_optimization_model_load_predict.py:343] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-12-20 19:01:55,668 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:375] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:32.527494
+2022-12-20 20:38:33,125 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:351] - GH optimization model : Start
+2022-12-20 20:38:39,323 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [29888]GH Model 실행 : 경영형-01_딸기:
+2022-12-20 20:38:39,329 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [43580]GH Model 실행 : 경영형-02_토마토:
+2022-12-20 20:38:39,410 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [31732]GH Model 실행 : 경영형-03_멜론:
+2022-12-20 20:38:39,411 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [33824]GH Model 실행 : 경영형-04_만다린:
+2022-12-20 20:38:49,564 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/경영형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:38:49,646 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/경영형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:38:49,674 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 경영형-04_만다린 - 결과 DB 저장 완료
+2022-12-20 20:38:49,675 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [33824]GH Model 실행 : 교육형-01_딸기:
+2022-12-20 20:38:49,718 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/경영형-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:38:49,763 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 경영형-02_토마토 - 결과 DB 저장 완료
+2022-12-20 20:38:49,764 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [43580]GH Model 실행 : 교육형-02_토마토:
+2022-12-20 20:38:49,855 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/경영형-03_멜론_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:38:49,961 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 경영형-03_멜론 - 결과 DB 저장 완료
+2022-12-20 20:38:49,962 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [31732]GH Model 실행 : 교육형-03_멜론:
+2022-12-20 20:38:50,446 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 경영형-01_딸기 - 결과 DB 저장 완료
+2022-12-20 20:38:50,447 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [29888]GH Model 실행 : 교육형-04_만다린:
+2022-12-20 20:38:58,628 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/교육형-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:38:58,735 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 교육형-01_딸기 - 결과 DB 저장 완료
+2022-12-20 20:38:58,736 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [33824]GH Model 실행 : 임대형1-01_딸기:
+2022-12-20 20:38:58,901 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/교육형-03_멜론_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:38:59,093 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/교육형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:38:59,201 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 교육형-02_토마토 - 결과 DB 저장 완료
+2022-12-20 20:38:59,202 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [43580]GH Model 실행 : 임대형1-02_딸기:
+2022-12-20 20:38:59,367 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/교육형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:38:59,449 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 교육형-03_멜론 - 결과 DB 저장 완료
+2022-12-20 20:38:59,449 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [31732]GH Model 실행 : 임대형1-03_딸기:
+2022-12-20 20:38:59,496 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 교육형-04_만다린 - 결과 DB 저장 완료
+2022-12-20 20:38:59,497 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:316] - [29888]GH Model 실행 : 임대형1-04_딸기:
+2022-12-20 20:39:08,019 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/임대형1-02_딸기_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:39:08,065 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/임대형1-03_딸기_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:39:08,122 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 임대형1-02_딸기 - 결과 DB 저장 완료
+2022-12-20 20:39:08,168 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 임대형1-03_딸기 - 결과 DB 저장 완료
+2022-12-20 20:39:08,361 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/임대형1-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:39:08,399 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:292] - 결과 파일 저장 완료 - ./result/임대형1-04_딸기_온실모니터링_10분뒤_예측.csv
+2022-12-20 20:39:08,503 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 임대형1-04_딸기 - 결과 DB 저장 완료
+2022-12-20 20:39:08,503 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:308] - 임대형1-01_딸기 - 결과 DB 저장 완료
+2022-12-20 20:39:09,204 INFO [GH_LOG] [고도화_GH_optimization_model_load_predict.py:375] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:36.078376

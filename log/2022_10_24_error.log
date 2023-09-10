@@ -1,0 +1,244 @@
+2022-10-24 17:48:37,310 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:322] - GH optimization model : Start
+2022-10-24 17:48:43,400 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [40660]GH Model 실행 : 경영형-01_딸기:
+2022-10-24 17:48:43,421 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [23160]GH Model 실행 : 경영형-03_멜론:
+2022-10-24 17:48:43,504 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [29752]GH Model 실행 : 교육형-01_딸기:
+2022-10-24 17:48:43,504 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [39072]GH Model 실행 : 교육형-03_멜론:
+2022-10-24 17:50:14,375 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:50:14,816 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:50:14,906 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [23160]GH Model 실행 : 경영형-04_만다린:
+2022-10-24 17:50:15,303 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [40660]GH Model 실행 : 경영형-02_토마토:
+2022-10-24 17:50:16,524 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:50:16,973 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [39072]GH Model 실행 : 교육형-04_만다린:
+2022-10-24 17:50:17,013 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:50:17,449 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [29752]GH Model 실행 : 교육형-02_토마토:
+2022-10-24 17:51:44,174 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:51:44,327 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:51:44,786 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [23160]GH Model 실행 : 임대형-01_오이:
+2022-10-24 17:51:44,901 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [40660]GH Model 실행 : 임대형-03_딸기:
+2022-10-24 17:51:49,357 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:51:49,371 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:51:49,876 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [39072]GH Model 실행 : 임대형1-01_토마토:
+2022-10-24 17:51:49,889 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [29752]GH Model 실행 : 임대형1-03_토마토:
+2022-10-24 17:53:14,187 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:53:14,356 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:53:14,792 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [23160]GH Model 실행 : 임대형-02_딸기:
+2022-10-24 17:53:14,937 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [40660]GH Model 실행 : 임대형-04_딸기:
+2022-10-24 17:53:20,958 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:53:21,277 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:314] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 17:53:21,405 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [29752]GH Model 실행 : 임대형1-04_토마토:
+2022-10-24 17:53:21,754 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:293] - [39072]GH Model 실행 : 임대형1-02_토마토:
+2022-10-24 18:07:36,443 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:323] - GH optimization model : Start
+2022-10-24 18:07:42,511 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [23092]GH Model 실행 : 경영형-01_딸기:
+2022-10-24 18:07:42,511 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [22396]GH Model 실행 : 경영형-03_멜론:
+2022-10-24 18:07:42,623 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [27952]GH Model 실행 : 교육형-01_딸기:
+2022-10-24 18:07:42,627 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [28492]GH Model 실행 : 교육형-03_멜론:
+2022-10-24 18:08:42,756 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:323] - GH optimization model : Start
+2022-10-24 18:08:49,087 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [37180]GH Model 실행 : 경영형-01_딸기:
+2022-10-24 18:08:49,087 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [39336]GH Model 실행 : 경영형-03_멜론:
+2022-10-24 18:08:49,106 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [39588]GH Model 실행 : 교육형-01_딸기:
+2022-10-24 18:08:49,106 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [30660]GH Model 실행 : 교육형-03_멜론:
+2022-10-24 18:10:19,441 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:10:19,984 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [39336]GH Model 실행 : 경영형-04_만다린:
+2022-10-24 18:10:20,425 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:10:20,873 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [37180]GH Model 실행 : 경영형-02_토마토:
+2022-10-24 18:10:24,016 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:10:24,240 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:10:24,507 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [39588]GH Model 실행 : 교육형-02_토마토:
+2022-10-24 18:10:24,724 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [30660]GH Model 실행 : 교육형-04_만다린:
+2022-10-24 18:11:50,122 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:11:50,605 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [39336]GH Model 실행 : 임대형-01_오이:
+2022-10-24 18:11:51,318 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:11:51,770 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [37180]GH Model 실행 : 임대형-03_딸기:
+2022-10-24 18:11:58,408 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:11:58,719 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:11:58,826 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [39588]GH Model 실행 : 임대형1-01_토마토:
+2022-10-24 18:11:59,151 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [30660]GH Model 실행 : 임대형1-03_토마토:
+2022-10-24 18:13:21,470 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:13:21,924 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [39336]GH Model 실행 : 임대형-02_딸기:
+2022-10-24 18:13:23,122 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:13:23,510 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [37180]GH Model 실행 : 임대형-04_딸기:
+2022-10-24 18:13:32,713 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:13:33,115 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [39588]GH Model 실행 : 임대형1-02_토마토:
+2022-10-24 18:13:33,850 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:13:34,274 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [30660]GH Model 실행 : 임대형1-04_토마토:
+2022-10-24 18:14:53,505 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:14:53,985 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [39336]GH Model 실행 : 임대형2-01_멜론:
+2022-10-24 18:14:54,874 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:14:55,274 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [37180]GH Model 실행 : 임대형2-03_멜론:
+2022-10-24 18:15:05,778 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:15:07,506 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:15:48,378 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:146] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 18:15:48,379 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:15:48,379 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [39336]GH Model 실행 : 임대형2-02_멜론:
+2022-10-24 18:15:58,406 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:116] - DB 연결 오류 발생
+2022-10-24 18:15:58,407 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:146] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 18:15:58,407 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:25:31,135 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:323] - GH optimization model : Start
+2022-10-24 18:25:36,957 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [9044]GH Model 실행 : 경영형-01_딸기:
+2022-10-24 18:25:37,023 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [25504]GH Model 실행 : 경영형-03_멜론:
+2022-10-24 18:25:37,108 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [26572]GH Model 실행 : 교육형-01_딸기:
+2022-10-24 18:25:37,110 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [1120]GH Model 실행 : 교육형-03_멜론:
+2022-10-24 18:27:07,952 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:27:08,423 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [25504]GH Model 실행 : 경영형-04_만다린:
+2022-10-24 18:27:08,629 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:27:09,091 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [9044]GH Model 실행 : 경영형-02_토마토:
+2022-10-24 18:27:12,377 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:27:12,379 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:27:12,831 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [26572]GH Model 실행 : 교육형-02_토마토:
+2022-10-24 18:27:12,838 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [1120]GH Model 실행 : 교육형-04_만다린:
+2022-10-24 18:28:39,729 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:28:40,207 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [25504]GH Model 실행 : 임대형-01_오이:
+2022-10-24 18:28:40,987 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:28:41,483 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [9044]GH Model 실행 : 임대형-03_딸기:
+2022-10-24 18:28:47,627 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:28:47,964 ERROR [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:315] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 18:28:48,057 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [26572]GH Model 실행 : 임대형1-01_토마토:
+2022-10-24 18:28:48,403 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [1120]GH Model 실행 : 임대형1-03_토마토:
+2022-10-24 18:38:33,765 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:324] - GH optimization model : Start
+2022-10-24 18:38:39,932 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [2404]GH Model 실행 : 경영형-01_딸기:
+2022-10-24 18:38:39,933 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [26408]GH Model 실행 : 경영형-03_멜론:
+2022-10-24 18:38:40,011 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [20272]GH Model 실행 : 교육형-01_딸기:
+2022-10-24 18:38:40,011 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [38788]GH Model 실행 : 교육형-03_멜론:
+2022-10-24 18:40:08,954 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [26408]GH Model 실행 : 경영형-04_만다린:
+2022-10-24 18:40:10,023 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [2404]GH Model 실행 : 경영형-02_토마토:
+2022-10-24 18:40:12,722 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [20272]GH Model 실행 : 교육형-02_토마토:
+2022-10-24 18:40:12,996 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [38788]GH Model 실행 : 교육형-04_만다린:
+2022-10-24 18:41:39,819 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [26408]GH Model 실행 : 임대형-01_오이:
+2022-10-24 18:41:42,392 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [2404]GH Model 실행 : 임대형-03_딸기:
+2022-10-24 18:41:45,494 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [20272]GH Model 실행 : 임대형1-01_토마토:
+2022-10-24 18:41:46,026 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [38788]GH Model 실행 : 임대형1-03_토마토:
+2022-10-24 18:43:09,565 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [26408]GH Model 실행 : 임대형-02_딸기:
+2022-10-24 18:43:14,415 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [2404]GH Model 실행 : 임대형-04_딸기:
+2022-10-24 18:43:20,427 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [20272]GH Model 실행 : 임대형1-02_토마토:
+2022-10-24 18:43:21,103 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [38788]GH Model 실행 : 임대형1-04_토마토:
+2022-10-24 18:44:42,456 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [26408]GH Model 실행 : 임대형2-01_멜론:
+2022-10-24 18:44:46,743 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [2404]GH Model 실행 : 임대형2-03_멜론:
+2022-10-24 18:46:11,233 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [26408]GH Model 실행 : 임대형2-02_멜론:
+2022-10-24 18:46:15,254 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:294] - [2404]GH Model 실행 : 임대형2-04_멜론:
+2022-10-24 18:47:41,581 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:355] - ** 모듈 실행 완료 > 총 실행시간 : 0:09:07.815885
+2022-10-24 20:10:58,123 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:313] - GH optimization model : Start
+2022-10-24 20:11:04,194 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [23400]GH Model 실행 : 경영형-01_딸기:
+2022-10-24 20:11:04,263 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [28720]GH Model 실행 : 경영형-03_멜론:
+2022-10-24 20:11:04,295 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [35216]GH Model 실행 : 교육형-01_딸기:
+2022-10-24 20:11:04,296 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [34376]GH Model 실행 : 교육형-03_멜론:
+2022-10-24 20:12:37,230 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [23400]GH Model 실행 : 경영형-02_토마토:
+2022-10-24 20:12:37,837 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [28720]GH Model 실행 : 경영형-04_만다린:
+2022-10-24 20:12:40,165 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [34376]GH Model 실행 : 교육형-04_만다린:
+2022-10-24 20:12:40,380 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [35216]GH Model 실행 : 교육형-02_토마토:
+2022-10-24 20:14:10,410 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [28720]GH Model 실행 : 임대형-01_오이:
+2022-10-24 20:14:10,773 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [23400]GH Model 실행 : 임대형-03_딸기:
+2022-10-24 20:14:16,240 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [34376]GH Model 실행 : 임대형1-01_토마토:
+2022-10-24 20:14:16,781 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [35216]GH Model 실행 : 임대형1-03_토마토:
+2022-10-24 20:15:43,223 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [28720]GH Model 실행 : 임대형-02_딸기:
+2022-10-24 20:15:44,516 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [23400]GH Model 실행 : 임대형-04_딸기:
+2022-10-24 20:15:51,806 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [34376]GH Model 실행 : 임대형1-02_토마토:
+2022-10-24 20:15:52,050 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [35216]GH Model 실행 : 임대형1-04_토마토:
+2022-10-24 20:17:16,177 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [28720]GH Model 실행 : 임대형2-01_멜론:
+2022-10-24 20:17:17,622 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [23400]GH Model 실행 : 임대형2-03_멜론:
+2022-10-24 20:18:43,894 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [28720]GH Model 실행 : 임대형2-02_멜론:
+2022-10-24 20:18:45,420 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:288] - [23400]GH Model 실행 : 임대형2-04_멜론:
+2022-10-24 20:20:11,666 INFO [GH_LOG] [GH_optimization_model_gu_seok_모델저장확인_필요없는내용 제거 copy_고흥1차최종전처리완료.py:344] - ** 모듈 실행 완료 > 총 실행시간 : 0:09:13.543121
+2022-10-24 22:10:26,080 INFO [GH_LOG] [GH_optimization_model_load_predict.py:293] - GH optimization model : Start
+2022-10-24 22:10:32,151 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [41212]GH Model 실행 : 경영형-01_딸기:
+2022-10-24 22:10:32,207 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:10:32,207 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:10:32,208 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [41212]GH Model 실행 : 경영형-02_토마토:
+2022-10-24 22:10:32,224 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [32464]GH Model 실행 : 경영형-03_멜론:
+2022-10-24 22:10:32,251 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:10:32,252 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:10:32,252 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [41212]GH Model 실행 : 경영형-04_만다린:
+2022-10-24 22:10:32,287 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:10:32,288 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:10:32,288 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [32464]GH Model 실행 : 교육형-01_딸기:
+2022-10-24 22:10:32,289 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:10:32,289 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:10:32,289 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [41212]GH Model 실행 : 교육형-02_토마토:
+2022-10-24 22:10:32,295 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [17612]GH Model 실행 : 교육형-03_멜론:
+2022-10-24 22:10:32,307 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [38732]GH Model 실행 : 교육형-04_만다린:
+2022-10-24 22:10:32,329 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:10:32,330 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:10:32,335 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:10:32,336 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:10:32,342 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:10:32,343 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:10:32,352 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:10:32,352 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:10:32,977 INFO [GH_LOG] [GH_optimization_model_load_predict.py:312] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:06.895759
+2022-10-24 22:12:51,501 INFO [GH_LOG] [GH_optimization_model_load_predict.py:294] - GH optimization model : Start
+2022-10-24 22:12:57,667 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [9336]GH Model 실행 : 경영형-01_딸기:
+2022-10-24 22:12:57,717 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:12:57,718 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:12:57,718 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [9336]GH Model 실행 : 경영형-02_토마토:
+2022-10-24 22:12:57,745 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [22104]GH Model 실행 : 경영형-03_멜론:
+2022-10-24 22:12:57,763 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [39332]GH Model 실행 : 경영형-04_만다린:
+2022-10-24 22:12:57,766 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:12:57,767 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:12:57,767 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [9336]GH Model 실행 : 교육형-01_딸기:
+2022-10-24 22:12:57,788 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [35320]GH Model 실행 : 교육형-02_토마토:
+2022-10-24 22:12:57,792 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:12:57,793 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:12:57,793 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [22104]GH Model 실행 : 교육형-03_멜론:
+2022-10-24 22:12:57,814 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:12:57,815 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:12:57,815 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [9336]GH Model 실행 : 교육형-04_만다린:
+2022-10-24 22:12:57,815 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:12:57,816 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:12:57,835 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:12:57,835 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:12:57,842 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:12:57,842 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:12:57,859 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:90] - DB 에서 데이터 가져오기 오류 발생
+2022-10-24 22:12:57,859 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-24 22:12:58,474 INFO [GH_LOG] [GH_optimization_model_load_predict.py:313] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:06.971681
+2022-10-24 22:15:47,445 INFO [GH_LOG] [GH_optimization_model_load_predict.py:294] - GH optimization model : Start
+2022-10-24 22:15:53,621 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [33268]GH Model 실행 : 경영형-01_딸기:
+2022-10-24 22:15:53,621 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [36260]GH Model 실행 : 경영형-02_토마토:
+2022-10-24 22:15:53,665 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [30676]GH Model 실행 : 경영형-03_멜론:
+2022-10-24 22:15:53,665 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [17640]GH Model 실행 : 경영형-04_만다린:
+2022-10-24 22:15:57,392 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:172] - 데이터전처리및 병합 오류발생
+2022-10-24 22:15:57,392 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:15:57,393 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [30676]GH Model 실행 : 교육형-01_딸기:
+2022-10-24 22:15:57,394 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:172] - 데이터전처리및 병합 오류발생
+2022-10-24 22:15:57,394 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:15:57,395 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [17640]GH Model 실행 : 교육형-02_토마토:
+2022-10-24 22:15:57,399 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:172] - 데이터전처리및 병합 오류발생
+2022-10-24 22:15:57,399 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:15:57,400 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [33268]GH Model 실행 : 교육형-03_멜론:
+2022-10-24 22:15:57,403 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:172] - 데이터전처리및 병합 오류발생
+2022-10-24 22:15:57,403 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:15:57,404 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [36260]GH Model 실행 : 교육형-04_만다린:
+2022-10-24 22:15:59,480 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:172] - 데이터전처리및 병합 오류발생
+2022-10-24 22:15:59,481 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:15:59,500 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:172] - 데이터전처리및 병합 오류발생
+2022-10-24 22:15:59,500 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:16:00,519 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:172] - 데이터전처리및 병합 오류발생
+2022-10-24 22:16:00,519 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:16:01,325 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:172] - 데이터전처리및 병합 오류발생
+2022-10-24 22:16:01,326 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:286] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:16:01,933 INFO [GH_LOG] [GH_optimization_model_load_predict.py:313] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:14.487060
+2022-10-24 22:20:46,050 INFO [GH_LOG] [GH_optimization_model_load_predict.py:296] - GH optimization model : Start
+2022-10-24 22:20:52,254 INFO [GH_LOG] [GH_optimization_model_load_predict.py:267] - [17016]GH Model 실행 : 경영형-01_딸기:
+2022-10-24 22:20:52,338 INFO [GH_LOG] [GH_optimization_model_load_predict.py:267] - [39984]GH Model 실행 : 경영형-02_토마토:
+2022-10-24 22:20:52,385 INFO [GH_LOG] [GH_optimization_model_load_predict.py:267] - [27436]GH Model 실행 : 경영형-03_멜론:
+2022-10-24 22:20:52,397 INFO [GH_LOG] [GH_optimization_model_load_predict.py:267] - [24840]GH Model 실행 : 경영형-04_만다린:
+2022-10-24 22:20:56,010 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:174] - 데이터전처리및 병합 오류발생
+2022-10-24 22:20:56,011 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:288] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:20:56,011 INFO [GH_LOG] [GH_optimization_model_load_predict.py:267] - [17016]GH Model 실행 : 교육형-01_딸기:
+2022-10-24 22:20:56,086 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:174] - 데이터전처리및 병합 오류발생
+2022-10-24 22:20:56,086 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:288] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:20:56,087 INFO [GH_LOG] [GH_optimization_model_load_predict.py:267] - [27436]GH Model 실행 : 교육형-02_토마토:
+2022-10-24 22:20:56,105 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:174] - 데이터전처리및 병합 오류발생
+2022-10-24 22:20:56,106 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:288] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:20:56,106 INFO [GH_LOG] [GH_optimization_model_load_predict.py:267] - [24840]GH Model 실행 : 교육형-03_멜론:
+2022-10-24 22:20:56,145 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:174] - 데이터전처리및 병합 오류발생
+2022-10-24 22:20:56,146 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:288] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:20:56,146 INFO [GH_LOG] [GH_optimization_model_load_predict.py:267] - [39984]GH Model 실행 : 교육형-04_만다린:
+2022-10-24 22:20:58,184 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:174] - 데이터전처리및 병합 오류발생
+2022-10-24 22:20:58,184 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:288] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:20:58,233 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:174] - 데이터전처리및 병합 오류발생
+2022-10-24 22:20:58,233 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:288] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:20:59,183 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:174] - 데이터전처리및 병합 오류발생
+2022-10-24 22:20:59,184 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:288] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:21:00,116 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:174] - 데이터전처리및 병합 오류발생
+2022-10-24 22:21:00,117 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:288] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-24 22:21:00,709 INFO [GH_LOG] [GH_optimization_model_load_predict.py:315] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:14.658906

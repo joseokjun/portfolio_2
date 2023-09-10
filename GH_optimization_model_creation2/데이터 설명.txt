@@ -1,0 +1,19 @@
+이 데이터는 모든작물(오이,딸기,토마토,멜론)의 작기를 s팀에게
+전달받아 작기가 전부 작물에 맞게 설정된 데이터
+
+이 데이터를 가지고 만든 모델을 서버에 올린다.
+
+#     custom_x_오이 = {'sky_window':
+# ['hd_x', 'tp_y', 'tp_x', 'pc', 'co2', 'ws', 'sr', 'wd'],
+# 'cg_curtain':
+# ['hd_x', 'co2', 'sr', 'tp_x', 'tp_y', 'ws', 'pc', 'wd'],
+# 'flow_fan':
+# ['tp_x', 'tp_y'],
+# 'hmdfc':
+# ['tp_x', 'hd_x', 'tp_y', 'sr', 'ws', 'co2'],
+# 'crc_pump':
+# ['tp_y', 'hd_x', 'co2', 'tp_x', 'pc', 'sr', 'ws', 'wd'],
+# '3way_valve':
+# ['tp_y', 'co2', 'hd_x', 'tp_x', 'sr', 'pc', 'ws', 'wd'],
+# 'heat_cooler':
+# ['co2', 'tp_y', 'hd_x', 'tp_x', 'sr', 'ws', 'pc', 'wd']}

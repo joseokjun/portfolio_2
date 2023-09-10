@@ -1,0 +1,2 @@
+# 해당 코드는 서울서버기준 경로로 작성되었습니다.
+*/10 * * * * /home/seoul/anaconda3/envs/tensorflow_gpu/bin/python3 /home/seoul/joseokjun/smartfarm/smartfarm_ver2/smartfarm_ver2_code/GH_optimization_model_load_predict_ver2.py >> /home/seoul/joseokjun/smartfarm/smartfarm_ver2/smartfarm_ver2_code/log/crontab.log 2>&1

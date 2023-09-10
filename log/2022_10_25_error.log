@@ -1,0 +1,421 @@
+2022-10-25 00:27:58,680 INFO [GH_LOG] [GH_optimization_model_load_predict.py:302] - GH optimization model : Start
+2022-10-25 00:28:05,003 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [28284]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 00:28:05,007 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [32436]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 00:28:05,078 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [30092]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 00:28:05,121 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [24124]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 00:28:11,211 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:28:11,212 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:28:11,212 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [30092]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 00:28:11,213 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:28:11,214 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:28:11,214 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [28284]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 00:28:11,233 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:28:11,233 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:28:11,234 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [24124]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 00:28:11,240 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:28:11,241 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:28:11,241 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [32436]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 00:28:13,350 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:28:13,350 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:28:13,400 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:28:13,401 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:28:14,324 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:28:14,325 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:28:15,209 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:28:15,209 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:28:15,849 INFO [GH_LOG] [GH_optimization_model_load_predict.py:321] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:17.167987
+2022-10-25 00:29:43,848 INFO [GH_LOG] [GH_optimization_model_load_predict.py:302] - GH optimization model : Start
+2022-10-25 00:29:50,251 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [19788]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 00:29:50,261 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [32132]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 00:29:50,266 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [38808]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 00:29:50,275 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [15444]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 00:29:54,202 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:29:54,203 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:29:54,204 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [38808]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 00:29:54,232 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:29:54,233 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:29:54,233 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [19788]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 00:29:54,242 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:29:54,243 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:29:54,243 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [15444]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 00:29:54,249 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:29:54,249 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:29:54,249 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [32132]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 00:29:56,347 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:29:56,347 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:29:56,408 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:29:56,409 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:29:57,370 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:29:57,370 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:29:58,436 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:29:58,437 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:29:59,066 INFO [GH_LOG] [GH_optimization_model_load_predict.py:321] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:15.217000
+2022-10-25 00:37:47,089 INFO [GH_LOG] [GH_optimization_model_load_predict.py:302] - GH optimization model : Start
+2022-10-25 00:37:54,022 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [12484]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 00:37:54,036 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [30684]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 00:37:54,080 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [33744]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 00:37:54,084 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [33036]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 00:37:58,115 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:37:58,116 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:37:58,116 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [12484]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 00:37:58,137 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:37:58,137 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:37:58,138 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [30684]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 00:37:58,246 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:37:58,247 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:37:58,248 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [33036]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 00:37:59,097 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:37:59,100 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:37:59,101 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [33744]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 00:38:00,713 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:38:00,714 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:38:00,717 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:38:00,717 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:38:01,767 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:38:01,767 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:38:03,311 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:180] - 데이터전처리및 병합 오류발생
+2022-10-25 00:38:03,312 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : 데이터 전처리 및 병합 오류 발생
+2022-10-25 00:38:04,004 INFO [GH_LOG] [GH_optimization_model_load_predict.py:321] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:16.913587
+2022-10-25 00:41:04,735 INFO [GH_LOG] [GH_optimization_model_load_predict.py:302] - GH optimization model : Start
+2022-10-25 00:41:11,438 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [16012]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 00:41:11,455 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [34992]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 00:41:11,519 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [25184]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 00:41:11,530 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 00:41:11,530 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [16012]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 00:41:11,540 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 00:41:11,541 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [34992]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 00:41:11,555 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [29008]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 00:41:11,611 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 00:41:11,611 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [25184]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 00:41:11,626 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 00:41:11,627 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 00:41:11,627 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [34992]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 00:41:11,642 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 00:41:11,731 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 00:41:11,772 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 00:41:12,410 INFO [GH_LOG] [GH_optimization_model_load_predict.py:321] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:07.674488
+2022-10-25 00:43:50,763 INFO [GH_LOG] [GH_optimization_model_load_predict.py:302] - GH optimization model : Start
+2022-10-25 00:43:57,359 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [7308]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 00:43:57,442 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [31412]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 00:43:57,450 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [19128]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 00:43:57,462 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [12104]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 00:44:02,105 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:228] - 예측하기 오류 발생
+2022-10-25 00:44:02,106 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 00:44:02,106 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [7308]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 00:44:02,219 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:228] - 예측하기 오류 발생
+2022-10-25 00:44:02,219 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 00:44:02,220 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [31412]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 00:44:02,252 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:228] - 예측하기 오류 발생
+2022-10-25 00:44:02,252 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 00:44:02,253 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [19128]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 00:44:02,254 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:228] - 예측하기 오류 발생
+2022-10-25 00:44:02,255 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 00:44:02,255 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [12104]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 00:44:04,937 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:228] - 예측하기 오류 발생
+2022-10-25 00:44:04,937 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 00:44:04,967 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:228] - 예측하기 오류 발생
+2022-10-25 00:44:04,968 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 00:44:05,963 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:228] - 예측하기 오류 발생
+2022-10-25 00:44:05,964 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 00:44:06,848 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:228] - 예측하기 오류 발생
+2022-10-25 00:44:06,849 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:294] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 00:44:07,534 INFO [GH_LOG] [GH_optimization_model_load_predict.py:321] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:16.770009
+2022-10-25 00:46:00,611 INFO [GH_LOG] [GH_optimization_model_load_predict.py:302] - GH optimization model : Start
+2022-10-25 00:46:06,904 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [7288]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 00:46:06,918 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [25308]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 00:46:07,083 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [23632]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 00:46:07,083 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [12492]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 00:46:11,544 INFO [GH_LOG] [GH_optimization_model_load_predict.py:251] - 결과 파일 저장 완료 - ./result/경영형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-10-25 00:46:11,551 INFO [GH_LOG] [GH_optimization_model_load_predict.py:251] - 결과 파일 저장 완료 - ./result/경영형-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-10-25 00:46:11,582 INFO [GH_LOG] [GH_optimization_model_load_predict.py:266] - 경영형-02_토마토 - 결과 DB 저장 완료
+2022-10-25 00:46:11,583 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [25308]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 00:46:11,588 INFO [GH_LOG] [GH_optimization_model_load_predict.py:266] - 경영형-01_딸기 - 결과 DB 저장 완료
+2022-10-25 00:46:11,589 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [7288]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 00:46:11,735 INFO [GH_LOG] [GH_optimization_model_load_predict.py:251] - 결과 파일 저장 완료 - ./result/경영형-03_멜론_온실모니터링_10분뒤_예측.csv
+2022-10-25 00:46:11,772 INFO [GH_LOG] [GH_optimization_model_load_predict.py:266] - 경영형-03_멜론 - 결과 DB 저장 완료
+2022-10-25 00:46:11,773 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [23632]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 00:46:11,779 INFO [GH_LOG] [GH_optimization_model_load_predict.py:251] - 결과 파일 저장 완료 - ./result/경영형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-10-25 00:46:11,816 INFO [GH_LOG] [GH_optimization_model_load_predict.py:266] - 경영형-04_만다린 - 결과 DB 저장 완료
+2022-10-25 00:46:11,817 INFO [GH_LOG] [GH_optimization_model_load_predict.py:273] - [12492]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 00:46:14,383 INFO [GH_LOG] [GH_optimization_model_load_predict.py:251] - 결과 파일 저장 완료 - ./result/교육형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-10-25 00:46:14,417 INFO [GH_LOG] [GH_optimization_model_load_predict.py:251] - 결과 파일 저장 완료 - ./result/교육형-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-10-25 00:46:14,422 INFO [GH_LOG] [GH_optimization_model_load_predict.py:266] - 교육형-02_토마토 - 결과 DB 저장 완료
+2022-10-25 00:46:14,453 INFO [GH_LOG] [GH_optimization_model_load_predict.py:266] - 교육형-01_딸기 - 결과 DB 저장 완료
+2022-10-25 00:46:15,550 INFO [GH_LOG] [GH_optimization_model_load_predict.py:251] - 결과 파일 저장 완료 - ./result/교육형-03_멜론_온실모니터링_10분뒤_예측.csv
+2022-10-25 00:46:15,582 INFO [GH_LOG] [GH_optimization_model_load_predict.py:266] - 교육형-03_멜론 - 결과 DB 저장 완료
+2022-10-25 00:46:16,517 INFO [GH_LOG] [GH_optimization_model_load_predict.py:251] - 결과 파일 저장 완료 - ./result/교육형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-10-25 00:46:16,549 INFO [GH_LOG] [GH_optimization_model_load_predict.py:266] - 교육형-04_만다린 - 결과 DB 저장 완료
+2022-10-25 00:46:17,226 INFO [GH_LOG] [GH_optimization_model_load_predict.py:321] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:16.614000
+2022-10-25 09:38:22,030 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:318] - GH optimization model : Start
+2022-10-25 09:38:27,996 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [39860]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 09:38:28,030 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [27672]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 09:38:28,048 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [16764]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 09:38:28,071 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [41940]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 09:41:10,708 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [39860]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 09:41:10,731 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [27672]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 09:41:28,481 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [16764]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 09:41:28,830 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [41940]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 09:43:29,112 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [39860]GH Model 실행 : 임대형-01_오이:
+2022-10-25 09:43:29,449 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [27672]GH Model 실행 : 임대형-03_딸기:
+2022-10-25 09:44:21,443 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [41940]GH Model 실행 : 임대형1-01_토마토:
+2022-10-25 09:44:22,207 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [16764]GH Model 실행 : 임대형1-03_토마토:
+2022-10-25 09:45:52,339 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [27672]GH Model 실행 : 임대형-04_딸기:
+2022-10-25 09:45:52,467 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [39860]GH Model 실행 : 임대형-02_딸기:
+2022-10-25 09:46:55,776 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [41940]GH Model 실행 : 임대형1-02_토마토:
+2022-10-25 09:46:56,819 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [16764]GH Model 실행 : 임대형1-04_토마토:
+2022-10-25 09:48:19,756 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [39860]GH Model 실행 : 임대형2-01_멜론:
+2022-10-25 09:48:19,817 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [27672]GH Model 실행 : 임대형2-03_멜론:
+2022-10-25 09:50:45,009 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [39860]GH Model 실행 : 임대형2-02_멜론:
+2022-10-25 09:50:45,144 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [27672]GH Model 실행 : 임대형2-04_멜론:
+2022-10-25 09:53:26,683 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:349] - ** 모듈 실행 완료 > 총 실행시간 : 0:15:04.652408
+2022-10-25 10:06:52,000 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:318] - GH optimization model : Start
+2022-10-25 10:06:58,063 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34472]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 10:06:58,073 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34304]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 10:06:58,144 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [37948]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 10:06:58,144 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [14204]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 10:09:40,806 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34304]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 10:09:41,529 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34472]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 10:09:57,498 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [14204]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 10:09:58,748 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [37948]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 10:12:25,564 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34304]GH Model 실행 : 임대형-01_오이:
+2022-10-25 10:12:26,161 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34472]GH Model 실행 : 임대형-03_딸기:
+2022-10-25 10:12:59,023 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [14204]GH Model 실행 : 임대형1-01_토마토:
+2022-10-25 10:13:01,105 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [37948]GH Model 실행 : 임대형1-03_토마토:
+2022-10-25 10:15:13,551 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34304]GH Model 실행 : 임대형-02_딸기:
+2022-10-25 10:15:15,146 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34472]GH Model 실행 : 임대형-04_딸기:
+2022-10-25 10:16:03,770 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [14204]GH Model 실행 : 임대형1-02_토마토:
+2022-10-25 10:16:05,862 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [37948]GH Model 실행 : 임대형1-04_토마토:
+2022-10-25 10:18:04,082 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34304]GH Model 실행 : 임대형2-01_멜론:
+2022-10-25 10:18:06,237 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34472]GH Model 실행 : 임대형2-03_멜론:
+2022-10-25 10:20:53,249 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34304]GH Model 실행 : 임대형2-02_멜론:
+2022-10-25 10:20:55,007 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:293] - [34472]GH Model 실행 : 임대형2-04_멜론:
+2022-10-25 10:23:22,148 INFO [GH_LOG] [GH_optimization_model_training_정확도확인.py:349] - ** 모듈 실행 완료 > 총 실행시간 : 0:16:30.148416
+2022-10-25 11:02:31,485 INFO [GH_LOG] [GH_optimization_model_load_predict.py:300] - GH optimization model : Start
+2022-10-25 11:02:37,681 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [15148]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 11:02:37,706 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [8980]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 11:02:37,756 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [30844]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 11:02:37,773 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [21976]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 11:02:45,585 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:02:45,686 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:02:45,696 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:02:45,699 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:02:45,865 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:02:45,866 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:02:45,867 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [21976]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 11:02:45,942 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:02:45,943 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:02:45,943 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [8980]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 11:02:45,955 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:02:45,955 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:02:45,956 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [15148]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 11:02:45,957 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:02:45,957 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [30844]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 11:02:50,289 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:02:50,356 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:02:50,357 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:02:50,475 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:02:50,508 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:02:50,508 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:02:50,551 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:02:50,552 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:02:50,592 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:02:50,592 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:02:50,669 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:02:50,670 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:02:51,283 INFO [GH_LOG] [GH_optimization_model_load_predict.py:319] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:19.797488
+2022-10-25 11:05:46,163 INFO [GH_LOG] [GH_optimization_model_load_predict.py:300] - GH optimization model : Start
+2022-10-25 11:05:52,392 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [24464]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 11:05:52,426 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [25532]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 11:05:52,440 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [38872]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 11:05:52,459 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [31368]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 11:05:58,383 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:05:58,426 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:05:58,458 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:05:58,489 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:05:58,666 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:05:58,667 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:05:58,667 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [25532]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 11:05:58,682 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:05:58,683 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:05:58,683 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [24464]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 11:05:58,736 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:05:58,736 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:05:58,737 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [38872]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 11:05:58,754 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:05:58,756 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:05:58,756 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [31368]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 11:06:02,995 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:06:02,997 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:06:03,167 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:06:03,177 ERROR [root] [GH_optimization_model_load_predict.py:46] - train 데이터셋 만드는 중 오류 발생
+2022-10-25 11:06:03,194 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:06:03,195 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:06:03,197 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:06:03,197 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:06:03,358 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:06:03,358 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:06:03,370 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:227] - 예측하기 오류 발생
+2022-10-25 11:06:03,371 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:292] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-10-25 11:06:04,024 INFO [GH_LOG] [GH_optimization_model_load_predict.py:319] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:17.859577
+2022-10-25 11:21:01,519 INFO [GH_LOG] [GH_optimization_model_load_predict.py:300] - GH optimization model : Start
+2022-10-25 11:21:07,921 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [28928]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 11:21:07,921 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [24680]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 11:21:08,053 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [16416]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 11:21:08,064 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [18860]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 11:21:12,526 INFO [GH_LOG] [GH_optimization_model_load_predict.py:250] - 결과 파일 저장 완료 - ./result/경영형-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-10-25 11:21:12,573 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - 경영형-01_딸기 - 결과 DB 저장 완료
+2022-10-25 11:21:12,574 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [28928]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 11:21:12,580 INFO [GH_LOG] [GH_optimization_model_load_predict.py:250] - 결과 파일 저장 완료 - ./result/경영형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-10-25 11:21:12,632 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - 경영형-02_토마토 - 결과 DB 저장 완료
+2022-10-25 11:21:12,633 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [24680]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 11:21:12,769 INFO [GH_LOG] [GH_optimization_model_load_predict.py:250] - 결과 파일 저장 완료 - ./result/경영형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-10-25 11:21:12,800 INFO [GH_LOG] [GH_optimization_model_load_predict.py:250] - 결과 파일 저장 완료 - ./result/경영형-03_멜론_온실모니터링_10분뒤_예측.csv
+2022-10-25 11:21:12,803 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - 경영형-04_만다린 - 결과 DB 저장 완료
+2022-10-25 11:21:12,804 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [18860]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 11:21:12,837 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - 경영형-03_멜론 - 결과 DB 저장 완료
+2022-10-25 11:21:12,837 INFO [GH_LOG] [GH_optimization_model_load_predict.py:272] - [16416]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 11:21:15,694 INFO [GH_LOG] [GH_optimization_model_load_predict.py:250] - 결과 파일 저장 완료 - ./result/교육형-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-10-25 11:21:15,736 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - 교육형-01_딸기 - 결과 DB 저장 완료
+2022-10-25 11:21:15,745 INFO [GH_LOG] [GH_optimization_model_load_predict.py:250] - 결과 파일 저장 완료 - ./result/교육형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-10-25 11:21:15,783 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - 교육형-02_토마토 - 결과 DB 저장 완료
+2022-10-25 11:21:17,236 INFO [GH_LOG] [GH_optimization_model_load_predict.py:250] - 결과 파일 저장 완료 - ./result/교육형-03_멜론_온실모니터링_10분뒤_예측.csv
+2022-10-25 11:21:17,283 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - 교육형-03_멜론 - 결과 DB 저장 완료
+2022-10-25 11:21:18,121 INFO [GH_LOG] [GH_optimization_model_load_predict.py:250] - 결과 파일 저장 완료 - ./result/교육형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-10-25 11:21:18,155 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - 교육형-04_만다린 - 결과 DB 저장 완료
+2022-10-25 11:21:18,824 INFO [GH_LOG] [GH_optimization_model_load_predict.py:319] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:17.303819
+2022-10-25 18:35:29,182 INFO [GH_LOG] [GH_optimization_model_load_predict.py:293] - GH optimization model : Start
+2022-10-25 18:35:35,672 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [35348]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 18:35:35,682 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [41152]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 18:35:35,739 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [30820]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 18:35:35,747 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [15856]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 18:35:35,784 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : preprocess_in() takes 1 positional argument but 2 were given
+2022-10-25 18:35:35,784 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : preprocess_in() takes 1 positional argument but 2 were given
+2022-10-25 18:35:35,785 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [35348]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 18:35:35,785 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [41152]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 18:35:35,827 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : preprocess_in() takes 1 positional argument but 2 were given
+2022-10-25 18:35:35,828 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [30820]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 18:35:35,840 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : preprocess_in() takes 1 positional argument but 2 were given
+2022-10-25 18:35:35,841 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [15856]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 18:35:35,860 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : preprocess_in() takes 1 positional argument but 2 were given
+2022-10-25 18:35:35,865 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : preprocess_in() takes 1 positional argument but 2 were given
+2022-10-25 18:35:35,952 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : preprocess_in() takes 1 positional argument but 2 were given
+2022-10-25 18:35:35,994 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : preprocess_in() takes 1 positional argument but 2 were given
+2022-10-25 18:35:36,678 INFO [GH_LOG] [GH_optimization_model_load_predict.py:312] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:07.496158
+2022-10-25 18:36:23,068 INFO [GH_LOG] [GH_optimization_model_load_predict.py:293] - GH optimization model : Start
+2022-10-25 18:36:29,421 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [16204]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 18:36:29,454 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [27724]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 18:36:29,703 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [28108]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 18:36:29,707 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [16304]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 18:36:32,170 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 18:36:32,171 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [16204]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 18:36:32,178 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 18:36:32,179 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [27724]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 18:36:32,606 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 18:36:32,606 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [28108]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 18:36:32,648 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 18:36:32,649 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [16304]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 18:36:33,283 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 18:36:33,323 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 18:36:33,743 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 18:36:33,837 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : local variable 'df' referenced before assignment
+2022-10-25 18:36:34,486 INFO [GH_LOG] [GH_optimization_model_load_predict.py:312] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:11.417041
+2022-10-25 18:38:33,608 INFO [GH_LOG] [GH_optimization_model_load_predict.py:293] - GH optimization model : Start
+2022-10-25 18:38:40,049 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [22720]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 18:38:40,053 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [41252]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 18:38:40,148 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [14540]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 18:38:40,148 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [37120]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 18:38:46,134 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:38:46,134 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [41252]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 18:38:46,137 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:38:46,138 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [22720]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 18:38:46,165 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:38:46,166 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [14540]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 18:38:46,194 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:38:46,195 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [37120]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 18:38:50,636 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:38:50,662 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:38:50,671 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:38:50,773 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:38:51,407 INFO [GH_LOG] [GH_optimization_model_load_predict.py:312] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:17.798066
+2022-10-25 18:41:30,857 INFO [GH_LOG] [GH_optimization_model_load_predict.py:293] - GH optimization model : Start
+2022-10-25 18:41:37,288 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [24912]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 18:41:37,288 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [34756]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 18:41:37,373 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [2708]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 18:41:37,430 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [32228]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 18:41:43,352 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:41:43,353 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [24912]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 18:41:43,370 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:41:43,371 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [34756]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 18:41:43,438 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:41:43,440 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [2708]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 18:41:43,466 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:41:43,467 INFO [GH_LOG] [GH_optimization_model_load_predict.py:259] - [32228]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 18:41:47,856 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:41:47,875 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:41:47,971 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:41:48,057 ERROR [GH_LOG] [GH_optimization_model_load_predict.py:285] - * 모듈 실행중 오류 발생 : '>=' not supported between instances of 'Timestamp' and 'int'
+2022-10-25 18:41:48,682 INFO [GH_LOG] [GH_optimization_model_load_predict.py:312] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:17.824237
+2022-10-25 18:46:09,075 INFO [GH_LOG] [GH_optimization_model_load_predict.py:299] - GH optimization model : Start
+2022-10-25 18:46:15,452 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [32260]GH Model 실행 : 경영형-01_딸기:
+2022-10-25 18:46:15,483 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [8104]GH Model 실행 : 경영형-02_토마토:
+2022-10-25 18:46:15,525 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [32816]GH Model 실행 : 경영형-03_멜론:
+2022-10-25 18:46:15,527 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [13356]GH Model 실행 : 경영형-04_만다린:
+2022-10-25 18:46:22,250 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/경영형-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:46:22,285 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 경영형-01_딸기 - 결과 DB 저장 완료
+2022-10-25 18:46:22,285 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [32260]GH Model 실행 : 교육형-01_딸기:
+2022-10-25 18:46:22,303 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/경영형-03_멜론_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:46:22,303 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/경영형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:46:22,337 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/경영형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:46:22,341 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 경영형-03_멜론 - 결과 DB 저장 완료
+2022-10-25 18:46:22,341 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 경영형-04_만다린 - 결과 DB 저장 완료
+2022-10-25 18:46:22,342 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [32816]GH Model 실행 : 교육형-02_토마토:
+2022-10-25 18:46:22,342 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [13356]GH Model 실행 : 교육형-03_멜론:
+2022-10-25 18:46:22,374 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 경영형-02_토마토 - 결과 DB 저장 완료
+2022-10-25 18:46:22,375 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [8104]GH Model 실행 : 교육형-04_만다린:
+2022-10-25 18:46:27,285 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/교육형-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:46:27,319 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/교육형-01_딸기_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:46:27,320 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 교육형-02_토마토 - 결과 DB 저장 완료
+2022-10-25 18:46:27,348 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/교육형-03_멜론_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:46:27,359 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 교육형-01_딸기 - 결과 DB 저장 완료
+2022-10-25 18:46:27,403 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 교육형-03_멜론 - 결과 DB 저장 완료
+2022-10-25 18:46:27,497 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/교육형-04_만다린_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:46:27,533 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 교육형-04_만다린 - 결과 DB 저장 완료
+2022-10-25 18:46:28,189 INFO [GH_LOG] [GH_optimization_model_load_predict.py:318] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:19.113999
+2022-10-25 18:48:39,654 INFO [GH_LOG] [GH_optimization_model_load_predict.py:299] - GH optimization model : Start
+2022-10-25 18:48:45,969 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [876]GH Model 실행 : 임대형-01_오이:
+2022-10-25 18:48:45,988 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [11456]GH Model 실행 : 임대형-02_딸기:
+2022-10-25 18:48:46,116 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [39500]GH Model 실행 : 임대형-03_딸기:
+2022-10-25 18:48:46,118 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [33796]GH Model 실행 : 임대형-04_딸기:
+2022-10-25 18:48:52,787 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형-01_오이_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:48:52,845 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형-02_딸기_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:48:52,845 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형-03_딸기_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:48:52,864 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형-04_딸기_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:48:52,887 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형-03_딸기 - 결과 DB 저장 완료
+2022-10-25 18:48:52,887 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형-02_딸기 - 결과 DB 저장 완료
+2022-10-25 18:48:52,887 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [39500]GH Model 실행 : 임대형1-01_토마토:
+2022-10-25 18:48:52,888 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [11456]GH Model 실행 : 임대형1-02_토마토:
+2022-10-25 18:48:52,902 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형-04_딸기 - 결과 DB 저장 완료
+2022-10-25 18:48:52,903 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [33796]GH Model 실행 : 임대형1-03_토마토:
+2022-10-25 18:48:53,086 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형-01_오이 - 결과 DB 저장 완료
+2022-10-25 18:48:53,087 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [876]GH Model 실행 : 임대형1-04_토마토:
+2022-10-25 18:48:58,000 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형1-03_토마토_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:48:58,023 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형1-02_토마토_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:48:58,039 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형1-03_토마토 - 결과 DB 저장 완료
+2022-10-25 18:48:58,039 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [33796]GH Model 실행 : 임대형2-01_멜론:
+2022-10-25 18:48:58,058 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형1-02_토마토 - 결과 DB 저장 완료
+2022-10-25 18:48:58,059 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [11456]GH Model 실행 : 임대형2-02_멜론:
+2022-10-25 18:48:58,153 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형1-01_토마토_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:48:58,172 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형1-04_토마토_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:48:58,188 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형1-01_토마토 - 결과 DB 저장 완료
+2022-10-25 18:48:58,189 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [39500]GH Model 실행 : 임대형2-03_멜론:
+2022-10-25 18:48:58,213 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형1-04_토마토 - 결과 DB 저장 완료
+2022-10-25 18:48:58,213 INFO [GH_LOG] [GH_optimization_model_load_predict.py:265] - [876]GH Model 실행 : 임대형2-04_멜론:
+2022-10-25 18:49:03,144 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형2-01_멜론_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:49:03,181 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형2-03_멜론_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:49:03,190 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형2-01_멜론 - 결과 DB 저장 완료
+2022-10-25 18:49:03,216 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형2-03_멜론 - 결과 DB 저장 완료
+2022-10-25 18:49:03,219 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형2-02_멜론_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:49:03,267 INFO [GH_LOG] [GH_optimization_model_load_predict.py:243] - 결과 파일 저장 완료 - ./result/임대형2-04_멜론_온실모니터링_10분뒤_예측.csv
+2022-10-25 18:49:03,267 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형2-02_멜론 - 결과 DB 저장 완료
+2022-10-25 18:49:03,315 INFO [GH_LOG] [GH_optimization_model_load_predict.py:258] - 임대형2-04_멜론 - 결과 DB 저장 완료
+2022-10-25 18:49:03,954 INFO [GH_LOG] [GH_optimization_model_load_predict.py:323] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:24.299732

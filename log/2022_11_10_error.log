@@ -1,0 +1,68 @@
+2022-11-10 11:18:44,214 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:327] - GH optimization model : Start
+2022-11-10 11:18:51,124 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [40184]GH Model 실행 : 경영형-01_딸기:
+2022-11-10 11:18:51,152 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [26832]GH Model 실행 : 경영형-02_메론:
+2022-11-10 11:18:51,206 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,207 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,207 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [40184]GH Model 실행 : 경영형-03_토마토:
+2022-11-10 11:18:51,234 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [20808]GH Model 실행 : 경영형-04_오이:
+2022-11-10 11:18:51,239 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [14800]GH Model 실행 : 교육형-01_딸기:
+2022-11-10 11:18:51,253 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,253 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,254 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [40184]GH Model 실행 : 교육형-02_메론:
+2022-11-10 11:18:51,326 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,326 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,326 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [20808]GH Model 실행 : 교육형-03_토마토:
+2022-11-10 11:18:51,332 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,333 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,334 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [14800]GH Model 실행 : 교육형-04_오이:
+2022-11-10 11:18:51,354 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,354 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,355 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [40184]GH Model 실행 : 임대형1-01_오이:
+2022-11-10 11:18:51,416 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,417 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,417 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [20808]GH Model 실행 : 임대형1-02_딸기:
+2022-11-10 11:18:51,419 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,420 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,420 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [14800]GH Model 실행 : 임대형1-03_오이:
+2022-11-10 11:18:51,427 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,428 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,428 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [40184]GH Model 실행 : 임대형1-04_오이:
+2022-11-10 11:18:51,446 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,447 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,448 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [20808]GH Model 실행 : 임대형2-01_딸기:
+2022-11-10 11:18:51,455 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,455 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,456 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [14800]GH Model 실행 : 임대형2-02_토마토:
+2022-11-10 11:18:51,474 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,475 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,475 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [40184]GH Model 실행 : 임대형2-03_토마토:
+2022-11-10 11:18:51,505 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,506 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,506 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,506 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,507 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:302] - [20808]GH Model 실행 : 임대형2-04_토마토:
+2022-11-10 11:18:51,529 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,529 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:51,541 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:51,541 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:52,209 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:155] - DB 에서 데이터 가져오기 오류 발생
+2022-11-10 11:18:52,210 ERROR [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:319] - * 모듈 실행중 오류 발생 : cannot unpack non-iterable NoneType object
+2022-11-10 11:18:52,841 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:354] - ** 모듈 실행 완료 > 총 실행시간 : 0:00:08.627701
+2022-11-10 11:23:17,282 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:328] - GH optimization model : Start
+2022-11-10 11:23:23,612 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [23800]GH Model 실행 : 경영형-01_딸기:
+2022-11-10 11:23:23,664 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [11620]GH Model 실행 : 경영형-02_메론:
+2022-11-10 11:23:23,747 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [29212]GH Model 실행 : 경영형-03_토마토:
+2022-11-10 11:23:23,763 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [33232]GH Model 실행 : 경영형-04_오이:
+2022-11-10 11:25:33,530 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [11620]GH Model 실행 : 교육형-01_딸기:
+2022-11-10 11:25:33,581 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [23800]GH Model 실행 : 교육형-02_메론:
+2022-11-10 11:25:48,588 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [33232]GH Model 실행 : 교육형-03_토마토:
+2022-11-10 11:25:49,602 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [29212]GH Model 실행 : 교육형-04_오이:
+2022-11-10 11:27:43,951 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [11620]GH Model 실행 : 임대형1-01_오이:
+2022-11-10 11:27:44,242 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [23800]GH Model 실행 : 임대형1-02_딸기:
+2022-11-10 11:28:16,042 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [33232]GH Model 실행 : 임대형1-03_오이:
+2022-11-10 11:28:16,872 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [29212]GH Model 실행 : 임대형1-04_오이:
+2022-11-10 11:29:57,571 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [23800]GH Model 실행 : 임대형2-01_딸기:
+2022-11-10 11:29:57,831 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [11620]GH Model 실행 : 임대형2-02_토마토:
+2022-11-10 11:30:46,392 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [33232]GH Model 실행 : 임대형2-03_토마토:
+2022-11-10 11:30:47,579 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:303] - [29212]GH Model 실행 : 임대형2-04_토마토:
+2022-11-10 11:33:17,862 INFO [GH_LOG] [GH_optimization_model_training_상주_정확도확인.py:355] - ** 모듈 실행 완료 > 총 실행시간 : 0:10:00.579644
